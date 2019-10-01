@@ -1,0 +1,34 @@
+{
+	"name": "Full Monty",
+	"displayName": "Full Monty",
+	"description": "A theme optimised for Python",
+	"version": "0.1.0",
+	"license": "MIT",
+	"publisher": "peaknik",
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"homepage": "https://github.com//",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com//.git"
+	},
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Full Monty",
+				"uiTheme": "vs-dark",
+				"path": "./theme/full-monty.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "",
+		"publisherId": "",
+		"publisherDisplayName": ""
+	}
+}
