@@ -1,7 +1,7 @@
 {
-	"name": "Full Monty",
+	"name": "full-monty",
 	"displayName": "Full Monty",
-	"description": "A theme optimised for Python",
+	"description": "A dark theme optimised for Python",
 	"version": "0.1.0",
 	"license": "MIT",
 	"publisher": "peaknik",
@@ -11,10 +11,10 @@
 	"categories": [
 		"Themes"
 	],
-	"homepage": "https://github.com//",
+	"homepage": "https://github.com/NikTarasov/full-monty",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com//.git"
+		"url": "https://github.com/NikTarasov/full-monty.git"
 	},
 	"icon": "icon.png",
 	"contributes": {
