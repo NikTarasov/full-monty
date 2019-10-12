@@ -22,7 +22,12 @@
 			{
 				"label": "Full Monty",
 				"uiTheme": "vs-dark",
-				"path": "./theme/full-monty.json"
+				"path": "./themes/full-monty.json"
+			},
+			{
+				"label": "XCode",
+				"uiTheme": "vs-dark",
+				"path": "./themes/xcode.json"
 			}
 		]
 	},
